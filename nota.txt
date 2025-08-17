@@ -1,0 +1,2 @@
+    Esta es una nota de git para probar los comandos basicos 
+    y como se verá en el repositorio remoto una vez que haga push origin main
